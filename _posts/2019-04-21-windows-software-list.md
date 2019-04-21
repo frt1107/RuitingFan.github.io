@@ -10,7 +10,6 @@ tag: windows软件
 {:toc}
 
 
-## 办公工具
 [办公工具](#)
 1. office系列：word、excel、PowerPoint、visio、project、onenote
 2. adobe系列：adobe reader、photo shop
@@ -30,7 +29,7 @@ tag: windows软件
 16. 输入法：搜狗输入法
 17. 网盘系列：百度云盘、onedrive、Google Drive
 
-## 开发工具
+
 [开发工具](#)
 1. java开发：JDK 1.8+、Intellij IDEA、eclipse、tomcat
 2. 数据库系列：MySQL、Navicat premium、MongoDB、MongoDB compass
