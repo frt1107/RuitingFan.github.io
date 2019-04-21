@@ -6,11 +6,13 @@ categories: windows软件
 tag: windows软件
 ---
 
+
 * content
 {:toc}
 
 
-[办公工具](#)
+办公工具			{#work-tools}
+====================================
 1. office系列：word、excel、PowerPoint、visio、project、onenote
 2. adobe系列：adobe reader、photo shop
 3. LaTeX系列：basic-miktext
@@ -30,7 +32,8 @@ tag: windows软件
 17. 网盘系列：百度云盘、onedrive、Google Drive
 
 
-[开发工具](#)
+开发工具			{#development-kit}
+====================================
 1. java开发：JDK 1.8+、Intellij IDEA、eclipse、tomcat
 2. 数据库系列：MySQL、Navicat premium、MongoDB、MongoDB compass
 3. 终端系列：Xshell、Xftp、FinalShell、Hyper
