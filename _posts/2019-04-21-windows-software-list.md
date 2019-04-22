@@ -30,6 +30,7 @@ tag: windows软件
 15. 解压软件：WinRAR、haozip
 16. 输入法：搜狗输入法
 17. 网盘系列：百度云盘、onedrive、Google Drive
+18. 界面原型：axure
 
 
 开发工具			{#development-kit}
@@ -48,6 +49,3 @@ tag: windows软件
 12. nodeJS
 
 
-[jekyll]:      http://jekyllrb.com
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-help]: https://github.com/jekyll/jekyll-help
