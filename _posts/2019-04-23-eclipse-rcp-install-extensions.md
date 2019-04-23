@@ -11,7 +11,7 @@ tag: RCP开发
 {:toc}
 
 
-Eclipse RCP开发，扩展点处只能创建Generic扩展点			{#this.title}
+Eclipse RCP开发，扩展点处只能创建Generic扩展点			{#this-title}
 ====================================
 Eclipse RCP开发，扩展点处的"new"上下文只能创建Generic节点，这主要是由于**没有安装RCP开发环境的扩展点的schame，集成环境的可视化插件不能分析出正确的语法。**
 
