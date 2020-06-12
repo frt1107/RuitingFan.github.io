@@ -12,10 +12,6 @@ tag: Java
 {:toc}
 
 
-
-
-# Java Integer的==和equals()的区别
-
 ## 问题发现：
 
 来自于在刷剑指offer的一道题的过程，如图所示。
