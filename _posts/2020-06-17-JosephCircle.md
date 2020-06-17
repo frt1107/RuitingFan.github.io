@@ -56,7 +56,7 @@ tag: 算法
 
 如图，是一个输入为n = 5， m = 3的示例：
 
-![约瑟夫环](C:\Users\admin\Downloads\约瑟夫环.png)
+![/post_images/2020-06-17-JosephCircle/JsoephCircle-img.png]({{ '/post_images/2020-06-17-JosephCircle/JsoephCircle-img.png' | prepend: site.baseurl  }})
 
 **核心思路：**
 
