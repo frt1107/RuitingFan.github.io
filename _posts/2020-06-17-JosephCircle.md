@@ -58,6 +58,8 @@ tag: 算法
 
 ![/post_images/2020-06-17-JosephCircle/JsoephCircle-img.png]({{ '/post_images/2020-06-17-JosephCircle/JsoephCircle-img.png' | prepend: site.baseurl  }})
 
+![/post_images/2020-06-17-JosephCircle/JsoephCircle-img2.png]({{ '/post_images/2020-06-17-JosephCircle/JsoephCircle-img2.png' | prepend: site.baseurl  }})
+
 **核心思路：**
 
 1. ***每次删除第m个节点前后的数组，其index之间是存在关联的：***每次删除第m个节点后，从下一个节点开始重新编号0，1，2,...。
