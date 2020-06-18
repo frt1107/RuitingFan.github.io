@@ -18,7 +18,7 @@ tag: Java
 
 我在判断栈顶元素相等的时候，通过`==`判断，而不是`equals()`，导致解答错误。
 
-![image-20200611175459766](C:\Users\admin\AppData\Roaming\Typora\typora-user-images\image-20200611175459766.png)
+![/post_images/2020-06-11-Java-Integer-compare/leet-offer-30.png]({{ '/post_images/2020-06-11-Java-Integer-compare/leet-offer-30.png' | prepend: site.baseurl  }})
 
 **这是因为我的一个误区：**
 
