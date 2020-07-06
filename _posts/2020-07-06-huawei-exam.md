@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "笔试题目"
-date:   2020-06-29 15:21:00 +0800
-categories: 笔面试
-tag: 笔试
+title:  "华为OD笔试题目"
+date:   2020-07-06 09:00:00 +0800
+categories: 算法
+tag: 笔面试
 
 
 
